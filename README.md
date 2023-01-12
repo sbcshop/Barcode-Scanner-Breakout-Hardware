@@ -7,9 +7,9 @@
 
 ## Repository Contents
 
-* [**/Documents**](https://github.com/sbcshop/Pico-Barcode-HAT-Hardware/tree/main/Documents) - This directory contains Datasheets of the components
-* [**/Design Data**](https://github.com/sbcshop/Pico-Barcode-HAT-Hardware/tree/main/Design%20Data) - This directory contains Schematic and Dimension files
-* [**/Mechanical Data**](https://github.com/sbcshop/Pico-Barcode-HAT-Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
+* [**/Documents**](https://github.com/sbcshop/Barcode-Scanner-Breakout-Hardware/tree/main/Documents) - This directory contains Datasheets of the components
+* [**/Design Data**](https://github.com/sbcshop/Barcode-Scanner-Breakout-Hardware/tree/main/Design%20Data) - This directory contains Schematic and Dimension files
+* [**/Mechanical Data**](https://github.com/sbcshop/Barcode-Scanner-Breakout-Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
 
 
 ## Related Products
