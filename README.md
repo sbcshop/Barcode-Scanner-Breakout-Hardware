@@ -13,7 +13,7 @@
 
  ## Documentation
 
-* [Barcode Scanner Breakout Hardware ](https://github.com/sbcshop/Barcode-Scanner-Breakout-Hardware)
+* [Barcode Scanner Breakout Software ](https://github.com/sbcshop/Barcode-Scanner-Breakout-Software)
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
