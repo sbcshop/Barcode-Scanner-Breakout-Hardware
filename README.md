@@ -11,6 +11,15 @@
 * [**/Design Data**](https://github.com/sbcshop/Barcode-Scanner-Breakout-Hardware/tree/main/Design%20Data) - This directory contains Schematic and Dimension files
 * [**/Mechanical Data**](https://github.com/sbcshop/Barcode-Scanner-Breakout-Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
 
+ ## Documentation
+
+* [Barcode Scanner Breakout Hardware ](https://github.com/sbcshop/Barcode-Scanner-Breakout-Hardware)
+* [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
+* [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
+* [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
+* [Hardware Design](https://www.raspberrypi.com/documentation/computers/compute-module.html)
+* [Raspberry Pi](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+
 
 ## Related Products
 
